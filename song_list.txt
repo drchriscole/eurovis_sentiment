@@ -1,0 +1,26 @@
+01 	 Israel 	IMRI 	"I Feel Alive" 	English 		
+02 	 Poland 	Kasia Moś 	"Flashlight" 	English 		
+03 	 Belarus 	Naviband 	"Story of My Life" 	Belarusian4 		
+04 	 Austria 	Nathan Trent 	"Running on Air" 	English 		
+05 	 Armenia 	Artsvik 	"Fly with Me" 	English 		
+06 	 Netherlands 	O'G3NE 	"Lights and Shadows" 	English 		
+07 	 Moldova 	Sunstroke Project 	"Hey, Mamma!" 	English 		
+08 	 Hungary 	Joci Pápai 	"Origo" 	Hungarian3 		
+09 	 Italy 	Francesco Gabbani 	"Occidentali's Karma" 	Italian6 		
+10 	 Denmark 	Anja 	"Where I Am" 	English 		
+11 	 Portugal 	Salvador Sobral 	"Amar Pelos Dois" 	Portuguese 		
+12 	 Azerbaijan 	Dihaj 	"Skeletons" 	English 		
+13 	 Croatia 	Jacques Houdek 	"My Friend" 	English, Italian 		
+14 	 Australia 	Isaiah 	"Don't Come Easy" 	English 		
+15 	 Greece 	Demy 	"This Is Love" 	English 		
+16 	 Spain 	Manel Navarro 	"Do It for Your Lover" 	Spanish, English 		
+17 	 Norway 	JOWST5 	"Grab the Moment" 	English 		
+18 	 United Kingdom 	Lucie Jones 	"Never Give Up on You" 	English 		
+19 	 Cyprus 	Hovig 	"Gravity" 	English 		
+20 	 Romania 	Ilinca and Alex Florea 	"Yodel It!" 	English 		
+21 	 Germany 	Levina 	"Perfect Life" 	English 		
+22 	 Ukraine 	O.Torvald 	"Time" 	English 		
+23 	 Belgium 	Blanche 	"City Lights" 	English 		
+24 	 Sweden 	Robin Bengtsson 	"I Can't Go On" 	English 		
+25 	 Bulgaria 	Kristian Kostov 	"Beautiful Mess" 	English 		
+26 	 France 	Alma 	"Requiem" 	French, English 	
