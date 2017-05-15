@@ -8,6 +8,10 @@ library(ggplot2)
 
 ver="0.1"
 
+# based heavily on this page from r-bloggers
+# https://www.r-bloggers.com/text-analysis-of-trumps-tweets-confirms-he-writes-only-the-angrier-android-half/
+# 
+
 # set up twitter auth. 
 # First time this is run, it opens an auth page with twitter
 # and saves it in ~/.httr-oauth (add to .gitignore)
