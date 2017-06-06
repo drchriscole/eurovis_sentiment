@@ -69,3 +69,6 @@ ggplot(sentiment[6:7,], aes(x=sentiment,y=n, fill=sentiment)) +
   coord_flip() +
   theme(legend.position="none") +
   ggtitle(country)
+
+# a comment
+# 
